@@ -5,6 +5,7 @@ name = "pypi"
 
 [dev-packages]
 watchdog = "*"
+flask-shell-ipython = "*"
 
 [packages]
 python-dotenv = "*"
